@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "320067035616",
+    "firebase_url": "https://pingpong-ae9ea.firebaseio.com",
+    "project_id": "pingpong-ae9ea",
+    "storage_bucket": "pingpong-ae9ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320067035616:android:44d6b4b4f41672bb",
+        "android_client_info": {
+          "package_name": "com.example.elad.pingpong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320067035616-cjah7ra3bgp18p7d4avt4svgg8eilccu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elad.pingpong",
+            "certificate_hash": "110502c54a852205e15a3e2b50c8e4c4cbdd7d49"
+          }
+        },
+        {
+          "client_id": "320067035616-q56ofl0qi9mt64iajhcad51a0mvqc3iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFLlhu0hEG1dpt7nPRxFIXteDug8StuBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320067035616-q56ofl0qi9mt64iajhcad51a0mvqc3iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
